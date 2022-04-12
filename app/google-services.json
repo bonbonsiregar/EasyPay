@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "9675171370",
+    "firebase_url": "https://easytopay-project.firebaseio.com",
+    "project_id": "easytopay-project",
+    "storage_bucket": "easytopay-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9675171370:android:223629984e0aa12c",
+        "android_client_info": {
+          "package_name": "com.easypay.easypay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9675171370-fo52tj0nabpho3s81gnq5ktofhq74e75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgLByJKgkdtDxFFzBI-S4CXrE8JJo10_0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
